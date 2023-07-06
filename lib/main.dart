@@ -36,7 +36,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   void _incrementCounter() {
     setState(() {
-      _counter = Random().nextInt(5) + 1;
+      _counter = Random().nextInt(6) + 1;
     });
   }
 
